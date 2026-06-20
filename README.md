@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="public/pika.svg" alt="Pikachu" width="120" />
-</p>
-
 # Pokédex Pro
+
+<p align="center">
+  <img src="public/pika.svg" alt="Pikachu" width="160" />
+</p>
 
 **Live app:** [pokedexproapp.netlify.app](https://pokedexproapp.netlify.app)
 
