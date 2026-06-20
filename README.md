@@ -1,9 +1,5 @@
 # Pokédex Pro
 
-<p align="center">
-  <img src="public/pika.svg" alt="Pikachu" width="160" />
-</p>
-
 **Live app:** [pokedexproapp.netlify.app](https://pokedexproapp.netlify.app)
 
 Your friendly, no-frills Pokédex for building the perfect team. Browse all Pokémon, search by name, and pick your favorites — then see your squad's full stats and type breakdown all in one place.
